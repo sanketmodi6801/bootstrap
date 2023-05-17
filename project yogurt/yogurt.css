@@ -1,0 +1,36 @@
+/* #main {
+     height: auto;
+     width: auto;
+     background-color: #11E8D9;
+     background-image: linear-gradientradient(#11E8D9,#47BDEB);
+     background-size: cover;
+ }
+.first{
+  color: #fff;
+  font-size: 75px;
+  font-family: 'Lobster', cursive;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-right: 5%;
+
+}
+.second{
+  color: #fff;
+  font-size: 30px;
+  font-family: 'Shadows Into Light', cursive;
+  margin-left:5%;
+  margin-top:1%;
+}
+.con{
+  background-color: #b1b1b1;
+  /* margin: 50px; */
+}
+.com{
+  background-color: #a1a1a1;
+}
+
+body{
+  /* background: #0cebeb;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ */
+}  */
